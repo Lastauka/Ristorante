@@ -57,3 +57,6 @@ body {
 .modal-header {
   background-color: #512DA8;
 }
+.modal-body{
+  background-color: rgb(96, 38, 231);
+}
